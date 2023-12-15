@@ -1,3 +1,4 @@
+![Project Cover Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
 <h1 align="center">Hi 👋, I'm Ammamuthu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -13,10 +14,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ammamuthu&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ammamuthu&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammamuthu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Mini Image](https://camo.githubusercontent.com/8af695d05c220ce8f99052778fd1632a08fcffbc88ec868cd5100e9cef0c7ff5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f666c666c433647467a4f38414141414d2f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966)
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammamuthu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 44%;">
+<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="Top Languages" style="width: 44%; height:270px; margin-left:-30px;">
 
 
 
