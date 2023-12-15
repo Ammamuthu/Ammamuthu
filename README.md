@@ -1,6 +1,6 @@
 ![Project Cover Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
 <h1 align="center">Hi 👋, I'm Ammamuthu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Need to Surpass the Tech </h3>
 
 # 💫 About Me:
 <br>- 🌱 I’m currently learning **MEARN**<br><br>- 📝 I regularly write articles on [https://medium.com/@ammamuthu2001](https://medium.com/@ammamuthu2001)<br><br>- 💬 Ask me about **Oracle**<br><br>- 📫 How to reach me **ammamuthu2001@gmail.com**
