@@ -4,7 +4,10 @@
 
 # 💫 About Me:
 <br>- 🌱 I’m currently learning **MEARN**<br><br>- 📝 I regularly write articles on [https://medium.com/@ammamuthu2001](https://medium.com/@ammamuthu2001)<br><br>- 💬 Ask me about **Oracle**<br><br>- 📫 How to reach me **ammamuthu2001@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammamuthu&label=Profile%20views&color=0e75b6&style=flat" alt="ammamuthu" /> </p>
+
+![](https://komarev.com/ghpvc/?username=ammamuthu&color=green)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammamuthu-m-50a485219) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ammamuthu2001) 
